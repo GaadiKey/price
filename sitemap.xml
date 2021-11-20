@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://price.gaadikey.com/about/</loc>
     <lastmod>2021-11-20T15:38:13+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://price.gaadikey.com/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://price.gaadikey.com/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://price.gaadikey.com/tags/</loc>
   </url>
 </urlset>

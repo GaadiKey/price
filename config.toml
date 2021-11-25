@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = "Editor"
-description = "Top lists"
+description = "Top Lists"
 keywords = "blog,cars,bikes,price"
 #info = ["Full Stack DevOps", "Magician"]
 #avatarURL = "images/avatar.jpg"

@@ -142,7 +142,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Best SUV Cars"
 weight = 2
-url = "suv-cars/"
+url = "best/suv-cars/"
 
 [[languages.en.menu.main]]
 name = "Projects"

@@ -11,6 +11,9 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
+[markup.goldmark.renderer] 
+  unsafe=true
+
 [params]
 author = "Editor"
 description = "Top Lists"
@@ -135,21 +138,11 @@ type = "application/rss+xml"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Best Vehicles"
 weight = 1
-url = "about/"
+url = "best/"
 
 [[languages.en.menu.main]]
 name = "Best SUV Cars"
 weight = 2
 url = "best/suv-cars/"
-
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"

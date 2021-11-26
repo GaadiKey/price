@@ -1,7 +1,8 @@
 ---
 title: "Best Cars"
 date: 2021-11-25T17:22:18+05:30
+type: "posts"
 ---
-[Best SUVs](/suv-cars)
+[Best SUVs](./suv-cars)
 
-[Tata Punch Variants](/suv-cars/tata-punch-variants/)
+[Tata Punch Variants](./suv-cars/tata-punch-variants/)

@@ -1,6 +1,7 @@
 ---
 title: "Best Tata Punch Variant Under 7 Lakhs"
 date: 2021-11-25T17:22:18+05:30
+type: "posts"
 ---
 
 Planning to buy a brand new SUV under a budget of 10 lakhs? We have made a list of popular SUVs which are priced __under the budget of 10 lakhs__. SUV is the most preferred formfactor by Indian auto-enthusiasts, the compact SUV craze is catching up in India like a wildfire. In this list we have considered the ex-showroom price of all cars, the on-road price of the car with be 1-2 lakhs additional depending on the state which you live in.  Read on…

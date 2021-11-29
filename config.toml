@@ -10,6 +10,8 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
+googleAnalytics = 'UA-56315292-9'
+
 
 [markup.goldmark.renderer] 
   unsafe=true

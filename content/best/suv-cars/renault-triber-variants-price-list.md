@@ -22,7 +22,7 @@ In this article, we are going to discuss different Renault Triber variants/trims
 
 ### Renault Triber RXE Features
 
-Priced at Rs 5.54 lakhs, the Renault RXE variant is the base variant and offers following features by default
+Priced at **Rs 5.54 lakhs**, the Renault RXE variant is the base variant and offers following features by default
 - Recline/ Slide/ Fold and Tumble function in 2nd row seats
 - Easyfix seats - Fold/Tumble function
 - Wheel arch cladding
@@ -30,7 +30,7 @@ Priced at Rs 5.54 lakhs, the Renault RXE variant is the base variant and offers 
 
 ### Renault Triber RXL Features
 
-Priced at Rs 6.20 lakhs, the Renault RXL variant offers following features in addition to features/equipments available in RXE
+Priced at **Rs 6.20 lakhs**, the Renault RXL variant offers following features in addition to features/equipments available in RXE
 - Height Adjustable Tilt functionality in steering wheel
 - Functional roof rails with load carrying capacity of 50 Kgs
 - Cooled storage in centre console
@@ -38,7 +38,7 @@ Priced at Rs 6.20 lakhs, the Renault RXL variant offers following features in ad
 
 ### Renault Triber RXT Features
 
-Priced at Rs 6.75 lakhs, the following feature set is provided along with those in RXL:
+Priced at **Rs 6.75 lakhs**, the following feature set is provided along with those in RXL:
 - LED Turn indicator mounted on ORVMs of car
 - Front & Rear Skid Plates
 - Steering mounted auto and phone controls
@@ -46,7 +46,7 @@ Priced at Rs 6.75 lakhs, the following feature set is provided along with those 
 
 ### Renault Triber RXZ Features
 
-Priced at Rs 7.35 lakhs, the Renault RXZ is the top-trim variant and is a fully loaded feature-packed option. On top of features offered in RXT, the Triber RXZ variant offers following features:
+Priced at **Rs 7.35 lakhs**, the Renault RXZ is the top-trim variant and is a fully loaded feature-packed option. On top of features offered in RXT, the Triber RXZ variant offers following features:
 - 2 Front airbags( Driver side and Passenger side) + 2 Additional side airbags for front seats
 - Stylish Flex Wheels
 - Start/Stop Engine Push button 

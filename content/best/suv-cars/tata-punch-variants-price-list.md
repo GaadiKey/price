@@ -4,7 +4,7 @@ date: 2021-12-10T10:02:18+05:30
 type: "posts"
 ---
 
-Tata Punch is the latest offering in the compact SUV segment from Tata Motors, India's 3rd largest car maker. Tata Punch has scored 5-star safety rating for Adult occupant protection and 4-star rating for child occupant protection. The all new Tata Punch is based on modern Agile Light Flexible Advanced (ALFA) Architecture. The car is offered both in Manual transmission (MT) and Automatic (AMT) transmission options. Tata Punch has gained lot of attention among car enthusiasts in India who are huntig for a compact SUV car under 4 metres. Take a look at the different color options offered in Tata Punch compact SUV below.
+Tata Punch is the latest offering in the compact SUV segment from Tata Motors, India's 3rd largest car maker. Tata Punch has scored 5-star safety rating for Adult occupant protection and 4-star rating for child occupant protection. The all new Tata Punch is based on modern Agile Light Flexible Advanced (ALFA) Architecture. The car is offered both in Manual transmission (MT) and Automatic (AMT) transmission options. Tata Punch has gained lot of attention among car enthusiasts in India who are huntig for a compact SUV car under 4 metres. Take a look at the different variant options/personas offered in Tata Punch compact SUV below.
 
 
 ## Tata Punch Variant-wise Price List (Ex-showroom Delhi)

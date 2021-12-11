@@ -8,7 +8,7 @@ type: "posts"
 
 Don't be surprised with PDI jargon. PDI is simply an acronym for "Pre-Delivery Inspection" and it is an important process which you should perform on your car before taking the delivery. Taking a car delivery happens once/twice in a lifetime and of course it is a happy lifetime moment for you and your family. While the day seem to be quite exciting, you should never forget to perform PDI on your car coming up with some excuses. Although you may very well trust and believe the words of sales team who sold this car, you have to indepently verify things yourselves by doing PDI without fail. A Car PDI is careful scrutiny of your car's interiors, exteriors, electriical components, oil levels, mechanicals, accessories, road test etc. 
 
-Once you move the car out of the showroom, if something goes missing or if something is not working, the libility falls entirely on you. So before you take the car to your custody, a thorough check up of your new car is recommended.
+Once you move the car out of the showroom, if something goes missing or if something is not working, the liability falls entirely on you. So before you take the car to your custody, a thorough check up of your new car is recommended.
 
 
 ## When should you perform a Car PDI?
@@ -62,7 +62,7 @@ Due diligence has to be done on following:
 
 - Ask the showroom to park the car in an open space in a proper daylight and conduct below inspections
 - Have a good look at the exterior color, paint, cladding etc
-- Have a quick look at the interior color and make sure it is the once which you opted for.
+- Have a quick look at the interior color and make sure it is the one which you opted for.
 - Have a closer look at the exterior of the car to spent any dents or marks.
 - Inspect if there is any difference in the shades of the color on different parts of the car, ensure the paint is consistent.
 - Open the boot and check for the spare tyre and wheel (make sure it is of right size). They should be unused and new. Also check for jack, spanners and toolkit.

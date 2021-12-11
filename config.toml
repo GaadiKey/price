@@ -152,3 +152,8 @@ url = "best/"
 name = "Best SUV Cars"
 weight = 2
 url = "best/suv-cars/"
+
+[[languages.en.menu.main]]
+name = "Car Tips"
+weight = 2
+url = "tips/cars/"

@@ -8,6 +8,7 @@ Tata Punch is the latest offering in the compact SUV segment from Tata Motors, I
 
 <!--- Estimated On Road Price is {{add int "1" int "2"}} {{add int "<param RoadTax>" int "<param RenaultTriber_Ex>" }} -->
 
+<param RenaultTriber_Ex>
 
 ## Tata Punch Variant-wise Price List (Ex-showroom Delhi)
 

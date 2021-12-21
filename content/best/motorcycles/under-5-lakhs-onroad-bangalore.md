@@ -11,10 +11,7 @@ Planning to buy a powerful motorcycle under 5 lakhs?
 
 ## Royal Enfield Interceptor 650
 
-The price of Royal Enfield Interceptor 650 basic version is Rs <param RoyalEnfield_Interceptor650_Default_OnRoad>    (On-road price Bangalore)
-
-<param RoyalEnfield_Interceptor650_Default_OnRoad>
-
+The price of Royal Enfield Interceptor 650 basic version is Rs {{<param RoyalEnfield_Interceptor650_Default_OnRoad>}}    (On-road price Bangalore)
  
 ## Kawasaki Ninja
 

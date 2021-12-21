@@ -28,7 +28,7 @@ dateFormat = "January 2, 2006"
 since = 2019
 RenaultTriber_Ex = 500000
 RoadTax = 50000
-RoyalEnfield_Interceptor650_Default_OnRoad = 360500
+RoyalEnfield_Interceptor650_Default_OnRoad = "360500"
 RoyalEnfield_Classic350_Default_OnRoad = 225000
 
 
